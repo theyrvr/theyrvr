@@ -15,4 +15,4 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-labzgo@proton.me-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:labzgo@proton.me)](mailto:labzgo@proton.me)
-[![Discord: golabz](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/devellendias/)
+[![Discord: golabz](https://img.shields.io/badge/-labzgo-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/1264700878770798755)](https://discord.com/users/1264700878770798755)
