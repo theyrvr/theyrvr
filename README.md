@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Labz!</h1>
 
 <p align="center">
-  💻 Estudante de Programação
+  💻 Estudante de Programação\n
   🌍 Apaixonado por Tecnologia
 </p><br><br>
 
