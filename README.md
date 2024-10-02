@@ -7,10 +7,10 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,c,lua,php)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,rust,c,lua,php)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,prisma,firebase,mongodb,postgresql,mysql,git)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,prisma,firebase,mongodb,figma,postgresql,mysql,git)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
