@@ -14,4 +14,4 @@
 
 ## 📫 Contato
 
-[![Discord: theyrvr.](https://img.shields.io/badge/-golabz-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/1264700878770798755)](https://discord.com/users/1264700878770798755)
+[![Discord: theyrvr.](https://img.shields.io/badge/-theyrvr.-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/1264700878770798755)](https://discord.com/users/1264700878770798755)
