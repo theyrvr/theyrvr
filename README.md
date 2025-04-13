@@ -5,7 +5,6 @@
   🌍 Apaixonado por Tecnologia
 </p><br><br>
 
-
 <h2 align ="center">🚀 Linguagens de Programação</h2>
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python)](https://skillicons.dev)<br><br>
 
