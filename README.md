@@ -1,16 +1,7 @@
-<h1 align="center">👋 Olá, eu sou They!</h1>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=theyrvr&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Github Status">
 
-<p align="center">
-  💻 Estudante de Programação<br>
-  🌍 Apaixonado por Tecnologia
-</p><br><br>
+### Olá, meu nome é Henry!
 
-<h2 align ="center">🚀 Linguagens de Programação</h2>
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python)](https://skillicons.dev)<br><br>
+<img src="https://img.shields.io/static/v1?label=Overview&message=theyrvr&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,prisma,sequelize,firebase,mongodb,figma,postgresql,mysql,git,cloudflare,discordjs,seyfert)](https://skillicons.dev)<br><br>
-
-## 📫 Contato
-
-[![Discord: theyrvr.](https://img.shields.io/badge/-theyrvr.-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/1264700878770798755)](https://discord.com/users/1264700878770798755)
+<p>Trabalhando na Astralis Studios<br/> Eu sou desenvolvedor Back-end</p>
